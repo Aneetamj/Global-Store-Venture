@@ -1,3 +1,18 @@
- Global Super Store
-We started by importing the dataset into Power BI and deleting the 1st row and making next row data as column headers. Then removed all the blank rows from Table Persons.
-We created bar charts to visualize sales data segmented by country, region, and market, allowing stakeholders to easily compare sales performance across different geographical areas.A pie chart was created to analyze the percentage distribution of shipping transactions based on various shipping modes, providing insights into the preferred shipping methods.Detailed tables and visualizations were developed to show sales data across cities, states, regions, and markets, offering a granular view of sales performance at different levels.This report provides a clear and interactive overview of the store's global sales data, aiding stakeholders in making informed business decisions.
+# Global Super Store
+
+Here is the dataset of a store, which has branches all over the world. The stakeholders require the detailed report on their sale transaction.
+
+Perform the basic data cleaning
+
+Segment the visuals using country, region, market 
+
+Analyze the data by visualizing the percentage of shipping based on ship mode.
+
+Give the report to see sales over the city, states, region and market. 
+
+Create tables for all the visualizations. 
+
+Make these visualizations and create an interactive sales report to show the stakeholders.
+
+
+https://www.linkedin.com/posts/aneeta-joji-a95534321_first-we-imported-the-dataset-into-power-activity-7225827287244398592-g3ra?utm_source=share&utm_medium=member_desktop

@@ -1,1 +1,3 @@
-# Global-Store-Venture
+ Global Super Store
+We started by importing the dataset into Power BI and deleting the 1st row and making next row data as column headers. Then removed all the blank rows from Table Persons.
+We created bar charts to visualize sales data segmented by country, region, and market, allowing stakeholders to easily compare sales performance across different geographical areas.A pie chart was created to analyze the percentage distribution of shipping transactions based on various shipping modes, providing insights into the preferred shipping methods.Detailed tables and visualizations were developed to show sales data across cities, states, regions, and markets, offering a granular view of sales performance at different levels.This report provides a clear and interactive overview of the store's global sales data, aiding stakeholders in making informed business decisions.
